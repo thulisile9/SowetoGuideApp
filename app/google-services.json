@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186072315135",
+    "firebase_url": "https://sowetoguideapp.firebaseio.com",
+    "project_id": "sowetoguideapp",
+    "storage_bucket": "sowetoguideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186072315135:android:4553f0c819c4a786",
+        "android_client_info": {
+          "package_name": "com.example.android.sowetoguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186072315135-se80k7uta924egugvk9ga9gv8dlcle86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.sowetoguideapp",
+            "certificate_hash": "996141abc536e36faf00ad02217ff10266cab07f"
+          }
+        },
+        {
+          "client_id": "186072315135-500fm0p2qi5qra9hr4vrjc565dleul11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIvgOTcwb7GiHbBwLwsRgI3p36UG_lrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186072315135-500fm0p2qi5qra9hr4vrjc565dleul11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
